@@ -1,5 +1,6 @@
-import java.util.*;  // package containing scanner classs --->
-public class basic {  // wap to accept any number n and print sum of square of all no from 1 to n --->
+import java.util.*;  // package containing scanner classs 
+public class basic {  
+     // wap to accept any number n and print sum of square of all no from 1 to n 
      public static void main(String[] args) {
      Scanner sc = new Scanner(System.in);
      System.out.println("Enter number ");
